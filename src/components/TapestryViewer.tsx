@@ -301,13 +301,6 @@ export default function TapestryViewer() {
                     loading="lazy"
                     className="w-full h-full object-cover select-none"
                   />
-                  
-                  {/* Stitched Latin Label Stamped at top of frame */}
-                  <div className="absolute top-10 left-1/2 -translate-x-1/2 z-20 px-5 py-1 bg-[#131114]/90 border border-[#d4af37]/25 rounded backdrop-blur-xs shadow-md">
-                    <span className="text-xs font-serif italic text-[#d4af37] tracking-widest font-semibold uppercase">
-                      * {panel.latin} *
-                    </span>
-                  </div>
                 </div>
               ))}
             </div>
@@ -328,12 +321,6 @@ export default function TapestryViewer() {
                     className="w-full h-full object-cover select-none"
                   />
                 </AnimatePresence>
-
-                <div className="absolute top-8 left-1/2 -translate-x-1/2 z-20 px-5 py-1 bg-[#131114]/90 border border-[#d4af37]/25 rounded backdrop-blur-xs shadow-md">
-                  <span className="text-xs font-serif italic text-[#d4af37] tracking-widest font-semibold uppercase">
-                    * {activePanel.latin} *
-                  </span>
-                </div>
               </div>
             </div>
           )}

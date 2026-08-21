@@ -61,12 +61,12 @@ export default function CampaignPoems() {
                 </div>
 
                 {/* Poem Title */}
-                <h3 className="text-lg md:text-xl font-bold font-serif text-[#211409] tracking-wide text-center">
+                <h3 className="text-lg md:text-xl font-bold canticle-script text-[#211409] tracking-wide text-center">
                   {poem.title}
                 </h3>
 
                 {/* Poem Body (Preserves newlines with whitespace-pre-line) */}
-                <p className="text-[#1f130a] text-sm md:text-base leading-relaxed font-serif text-center whitespace-pre-line font-medium select-text py-2">
+                <p className="text-[#1f130a] text-sm md:text-base leading-relaxed canticle-script text-center whitespace-pre-line font-medium select-text py-2">
                   {Array.isArray(poem.body) ? poem.body.join('\n') : poem.body}
                 </p>
               </div>
