@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle of the Blank Shield",
+  "description": "An interactive Warhammer 40k Freeblade Knight Force Document featuring a digital Bayeux Tapestry viewer, narrative lore scrolls, and dynamic timeline navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

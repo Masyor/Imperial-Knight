@@ -1,0 +1,23 @@
+[
+  {
+    "id": "poem-1",
+    "title": "Witches",
+    "body": [
+      "I cannot say, I cannot tell.",
+      "I leave those psykers to their hell.",
+      "What they can do, I do not ask.",
+      "Avoiding psykers is my task.",
+      "I hold no knowledge of their ways.",
+      "I steer far clear of their warp gaze.",
+      "I know nothing of mind borne fire.",
+      "All psykers belong in a pyre."
+    ]
+  },
+  {
+    "id": "poem-2",
+    "title": "Placeholder",
+    "body": [
+      "blah"
+    ]
+  }
+]
