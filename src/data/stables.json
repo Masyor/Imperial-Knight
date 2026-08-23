@@ -1,0 +1,32 @@
+[
+  {
+    "id": "knight_1",
+    "pilotName": "The Current Lord",
+    "engineName": "Test",
+    "className": "Test",
+    "stats": {
+      "attunement": "Test",
+      "overclocks": "3 Overclocks available",
+      "shieldStrength": "Test",
+      "speed": "Test",
+      "armour": "Test"
+    },
+    "weapons": "Test",
+    "notes": "Test"
+  },
+  {
+    "id": "armiger_1",
+    "pilotName": "A Guy",
+    "engineName": "Test2",
+    "className": "Test",
+    "stats": {
+      "attunement": "Test",
+      "overclocks": "3 Overclocks available",
+      "shieldStrength": "Test",
+      "speed": "Test",
+      "armour": "Test"
+    },
+    "weapons": "Test",
+    "notes": "Test"
+  }
+]

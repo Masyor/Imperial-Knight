@@ -1,0 +1,25 @@
+{
+  "name": "Lord Test",
+  "titles": "The Test",
+  "gender": "Male",
+  "age": "36 Terran Standard Years",
+  "height": "6 ft 3 in (191 cm)",
+  "weight": "100 kg",
+  "physicalAppearance": "Test.",
+  "armour": "Test",
+  "weaponry": "Test",
+  "backstory": "Test.",
+  "personality": "",
+  "talentsAndAbilities": [
+    "Test",
+    "Test",
+    "Test",
+    "Test"
+  ],
+  "augmentations": [
+    "Test",
+    "Test",
+    "Test",
+    "Test"
+  ]
+}

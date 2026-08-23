@@ -1,0 +1,18 @@
+[
+  {
+    "id": "house_armsmen",
+    "name": "Test 1",
+    "number": "120 dudes",
+    "armour": "Yes",
+    "weapons": "Also yes",
+    "notes": "None."
+  },
+  {
+    "id": "sacristan_order",
+    "name": "Test 2",
+    "number": "121 dudes",
+    "armour": "Yes",
+    "weapons": "Also yes",
+    "notes": "None."
+  }
+]

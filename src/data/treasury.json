@@ -1,0 +1,19 @@
+{
+  "total": "80 F%",
+  "ledger": [
+    {
+      "id": "tx_01",
+      "date": "24/08/2026",
+      "description": "Test Increase",
+      "amount": "+100 F%",
+      "type": "positive"
+    },
+    {
+      "id": "tx_02",
+      "date": "24/08/2026",
+      "description": "Test Negative",
+      "amount": "-20 F%",
+      "type": "negative"
+    }
+  ]
+}

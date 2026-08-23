@@ -1,0 +1,32 @@
+{
+  "lanceName": "Lance Test",
+  "houseOfOrigin": "House Test",
+  "householdHistory": "Test",
+  "householdColors": {
+    "primary": "#1a1820",
+    "primaryName": "Iron Sable",
+    "secondary": "#852129",
+    "secondaryName": "Imperial Crimson",
+    "accent": "#d4af37",
+    "accentName": "Relic Aurum",
+    "heraldicField": "Test"
+  },
+  "householdCorePrinciples": [
+    {
+      "title": "The Oath of the Test",
+      "description": "Test"
+    },
+    {
+      "title": "The Oath of the Test",
+      "description": "Test"
+    },
+    {
+      "title": "The Oath of the Test",
+      "description": "Test"
+    },
+    {
+      "title": "The Oath of the Test",
+      "description": "Test"
+    }
+  ]
+}
